@@ -1,5 +1,11 @@
 <p align="center">
-  <img src="0-Hunter.jpeg" alt="ZeroHunter Logo" width="200"/>
+  <img src="0-Hunter.jpeg" alt="ZeroHunter Logo" width="400"/>
+</p>
+
+<h1 align="center">ZeroHunter</h1>
+<p align="center"><strong>Advanced Offensive Security Toolkit</strong></p>
+<p align="center">
+  Reconnaissance • Exploitation • Payloads • C2 • AI-powered Analysis
 </p>
 
 # ZeroHunter – Next-Generation Offensive Cybersecurity Platform
