@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="0-Hunter.jpeg" alt="ZeroHunter Logo" width="200"/>
+</p>
+
 # ZeroHunter – Next-Generation Offensive Cybersecurity Platform
 
 ZeroHunter is a cutting-edge, full-spectrum offensive cybersecurity platform engineered to empower security professionals with unparalleled control over every stage of a cyber attack. Designed for precision, scalability, and stealth, ZeroHunter integrates state-of-the-art modules for reconnaissance, exploitation, payload generation, and command & control (C2), all enhanced by advanced artificial intelligence to deliver actionable insights and automate complex decision-making processes.
